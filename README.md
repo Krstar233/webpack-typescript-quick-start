@@ -1,4 +1,4 @@
-# webpack-quick-start
+# webpack-typescript-quick-start
 
 This is a quick start demo for Webpack 5.
 
